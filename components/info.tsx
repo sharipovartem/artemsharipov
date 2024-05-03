@@ -19,7 +19,7 @@ export function Info() {
       <header className=" flex-col items-center mb-12">
         <Avatar className="mb-4 w-16 h-16">
           <AvatarImage alt="Artem Sharipov" src="/artem.jpeg" />
-          <AvatarFallback>AK</AvatarFallback>
+          <AvatarFallback>AS</AvatarFallback>
         </Avatar>
         <h1 className="text-2xl font-bold">Artem Sharipov</h1>
         <p className="text-md">Python Engineer & Web Developer</p>
